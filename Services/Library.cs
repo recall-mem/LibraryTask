@@ -257,14 +257,26 @@ namespace Task.services
         public void run()
         {
 
-            char opt;
+            char opt = '$';
 
             while (true)
             {
+                _starting_point:
                 PrintMenu();
 
                 Console.Write("Option: ");
-                opt = Console.ReadLine()[0];
+                try
+                {
+                    opt = Console.ReadLine()[0];
+                }
+                catch (IndexOutOfRangeException)
+                {
+                    Console.WriteLine("Use options!");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
 
                 switch (opt)
                 {
