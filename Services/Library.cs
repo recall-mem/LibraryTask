@@ -272,10 +272,12 @@ namespace Task.services
                 catch (IndexOutOfRangeException)
                 {
                     Console.WriteLine("Use options!");
+                    goto _starting_point;
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine(ex.Message);
+                    goto _starting_point;
                 }
 
                 switch (opt)
