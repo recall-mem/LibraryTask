@@ -1,0 +1,14 @@
+/home/recall/Desktop/csharp/Library/bin/Debug/net8.0/Library
+/home/recall/Desktop/csharp/Library/bin/Debug/net8.0/Library.deps.json
+/home/recall/Desktop/csharp/Library/bin/Debug/net8.0/Library.runtimeconfig.json
+/home/recall/Desktop/csharp/Library/bin/Debug/net8.0/Library.dll
+/home/recall/Desktop/csharp/Library/bin/Debug/net8.0/Library.pdb
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.AssemblyInfo.cs
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.csproj.CoreCompileInputs.cache
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.dll
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/refint/Library.dll
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.pdb
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/Library.genruntimeconfig.cache
+/home/recall/Desktop/csharp/Library/obj/Debug/net8.0/ref/Library.dll
